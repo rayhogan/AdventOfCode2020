@@ -36,15 +36,14 @@ namespace AdventOfCode2020
             int result = 0;
             for (int i = 0; i < input.Length; i++)
             {
-                for (int j = 0; j < input.Length; j++)
+                for (int j = i + 1; j < input.Length; j++)
                 {
-                    if (i != j)
+
+                    if ((Int32.Parse(input[i]) + Int32.Parse(input[j])) == 2020)
                     {
-                        if ((Int32.Parse(input[i]) + Int32.Parse(input[j])) == 2020)
-                        {
-                            return Int32.Parse(input[i]) * Int32.Parse(input[j]);
-                        }
+                        return Int32.Parse(input[i]) * Int32.Parse(input[j]);
                     }
+
                 }
             }
             return result;
@@ -55,28 +54,26 @@ namespace AdventOfCode2020
             int result = 0;
             for (int i = 0; i < input.Length; i++)
             {
-                for (int j = 0; j < input.Length; j++)
+                for (int j = i + 1; j < input.Length; j++)
                 {
-                    if (i != j)
-                    {
-                        int sum = Int32.Parse(input[i]) + Int32.Parse(input[j]);
 
-                        if (sum < 2020)
+                    int sum = Int32.Parse(input[i]) + Int32.Parse(input[j]);
+
+                    if (sum < 2020)
+                    {
+                        for (int k = j + 1; k < input.Length; k++)
                         {
-                            for (int k = 0; k < input.Length; k++)
+
+                            if ((sum + Int32.Parse(input[k]) == 2020))
                             {
-                                if (k != i && k != j)
-                                {
-                                    if ((sum + Int32.Parse(input[k]) == 2020))
-                                    {
-                                        return Int32.Parse(input[i]) * Int32.Parse(input[j]) * Int32.Parse(input[k]);
-                                    }
-                                }
+                                return Int32.Parse(input[i]) * Int32.Parse(input[j]) * Int32.Parse(input[k]);
                             }
+
                         }
                     }
+
                 }
-               
+
             }
             return result;
         }
