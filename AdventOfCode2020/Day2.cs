@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using AdventOfCode2020.Day1Stuff;
+using AdventOfCode2020.Day2Stuff;
 
 namespace AdventOfCode2020
 {

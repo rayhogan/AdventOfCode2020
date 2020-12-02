@@ -1,6 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using AdventOfCode2020;
-using AdventOfCode2020.Day1Stuff;
+using AdventOfCode2020.Day2Stuff;
 using System.Collections.Generic;
 
 namespace AdventOfCode2020.Tests
@@ -18,7 +18,7 @@ namespace AdventOfCode2020.Tests
             PasswordManager pwdmgr = new PasswordManager(input);
             List<Password> output = pwdmgr.PasswordPolicyViolation1();
 
-            // Asset
+            // Assert
             Assert.AreEqual(1, output.Count);
             Assert.AreEqual("cdefg", output[0].UserPassword);
 
@@ -33,7 +33,7 @@ namespace AdventOfCode2020.Tests
             PasswordManager pwdmgr = new PasswordManager(input);
             List<Password> output = pwdmgr.PasswordPolicyViolation2();
 
-            // Asset
+            // Assert
             Assert.AreEqual(2, output.Count);
             Assert.AreEqual("cdefg", output[0].UserPassword);
             Assert.AreEqual("ccccccccc", output[1].UserPassword);

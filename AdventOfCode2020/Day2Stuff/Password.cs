@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace AdventOfCode2020.Day1Stuff
+namespace AdventOfCode2020.Day2Stuff
 {
     public class Password
     {

@@ -15,7 +15,7 @@ namespace AdventOfCode2020.Tests
             // Act
             int result = Day1.Calculate2Sum(input);
 
-            // Asset
+            // Assert
             Assert.AreEqual(514579, result);
         }
         [TestMethod]
@@ -27,7 +27,7 @@ namespace AdventOfCode2020.Tests
             // Act
             int result = Day1.Calculate3Sum(input);
 
-            // Asset
+            // Assert
             Assert.AreEqual(241861950, result);
         }
     }

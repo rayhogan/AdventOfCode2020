@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Linq;
 
-namespace AdventOfCode2020.Day1Stuff
+namespace AdventOfCode2020.Day2Stuff
 {
     public class PasswordManager
     {
