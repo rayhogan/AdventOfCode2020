@@ -10,9 +10,21 @@
     <None Remove="Inputs\Day1_example.txt" />
     <None Remove="Inputs\Day2_example.txt" />
     <None Remove="Inputs\Day3_example.txt" />
+    <None Remove="Inputs\Day4_example.txt" />
+    <None Remove="Inputs\Day4_example2.txt" />
+    <None Remove="Inputs\Day4_example2_valid.txt" />
   </ItemGroup>
 
   <ItemGroup>
+    <Content Include="Inputs\Day4_example2_valid.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Inputs\Day4_example2.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Inputs\Day4_example.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="Inputs\Day3_example.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
