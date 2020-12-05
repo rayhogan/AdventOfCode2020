@@ -46,4 +46,10 @@
     <ProjectReference Include="..\AdventOfCode2020\AdventOfCode2020.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="Inputs\Day5_example.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
