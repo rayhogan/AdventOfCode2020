@@ -23,6 +23,9 @@ namespace AdventOfCode2020
 
             Helper.PrintChallenge("Day 6");
             Day6.Run();
+
+            Helper.PrintChallenge("Day 7");
+            Day7.Run();
         }
     }
 }
