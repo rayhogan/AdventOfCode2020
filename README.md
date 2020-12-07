@@ -9,7 +9,7 @@ C# solutions with tests
 | 4   | Passport Processing  |   ⭐   |  ⭐  |
 | 5   | Binary Boarding      |   ⭐   |  ⭐  |
 | 6   | Custom Customs       |   ⭐   |  ⭐  |
-| 7   |                      |         |      |
+| 7   | Handy Haversacks     |   ⭐   |  ⭐  |
 | 8   |                      |         |      |
 | 9   |                      |         |      |
 | 10  |                      |         |      |
