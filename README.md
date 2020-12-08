@@ -10,7 +10,7 @@ C# solutions with tests
 | 5   | Binary Boarding      |   ⭐   |  ⭐  |
 | 6   | Custom Customs       |   ⭐   |  ⭐  |
 | 7   | Handy Haversacks     |   ⭐   |  ⭐  |
-| 8   |                      |         |      |
+| 8   | Handheld Halting     |   ⭐   |  ⭐  |
 | 9   |                      |         |      |
 | 10  |                      |         |      |
 | 11  |                      |         |      |
