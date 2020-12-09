@@ -11,7 +11,7 @@ C# solutions with tests
 | 6   | Custom Customs       |   ⭐   |  ⭐  |
 | 7   | Handy Haversacks     |   ⭐   |  ⭐  |
 | 8   | Handheld Halting     |   ⭐   |  ⭐  |
-| 9   |                      |         |      |
+| 9   | Encoding Error       |   ⭐   |  ⭐  |
 | 10  |                      |         |      |
 | 11  |                      |         |      |
 | 12  |                      |         |      |
