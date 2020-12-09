@@ -9,7 +9,6 @@ namespace AdventOfCode2020
         public static string[] ParseInput(string location)
         {
             string[] input = System.IO.File.ReadAllLines(location);
-
             return input;
         }
 
