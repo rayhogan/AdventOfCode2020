@@ -12,7 +12,7 @@ C# solutions with tests
 | 7   | Handy Haversacks     |   ⭐   |  ⭐  |
 | 8   | Handheld Halting     |   ⭐   |  ⭐  |
 | 9   | Encoding Error       |   ⭐   |  ⭐  |
-| 10  |                      |         |      |
+| 10  | Adapter Array        |   ⭐   |  ⭐  |
 | 11  |                      |         |      |
 | 12  |                      |         |      |
 | 13  |                      |         |      |
