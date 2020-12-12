@@ -13,7 +13,7 @@ C# solutions with tests
 | 8   | Handheld Halting     |   ⭐   |  ⭐  |
 | 9   | Encoding Error       |   ⭐   |  ⭐  |
 | 10  | Adapter Array        |   ⭐   |  ⭐  |
-| 11  |                      |         |      |
+| 11  | Seating System       |   ⭐   |  ⭐  |
 | 12  |                      |         |      |
 | 13  |                      |         |      |
 | 14  |                      |         |      |
