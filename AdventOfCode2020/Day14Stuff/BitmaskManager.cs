@@ -13,7 +13,6 @@ namespace AdventOfCode2020.Day14Stuff
         public BitmaskManager(string[] input)
         {
             ParseInput(input);
-            int i = 10;
         }
 
         private void ParseInput(string[] input)
