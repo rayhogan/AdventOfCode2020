@@ -16,7 +16,7 @@ C# solutions with tests
 | 11  | Seating System       |   ⭐   |  ⭐  |
 | 12  | Rain Risk            |   ⭐   |  ⭐  |
 | 13  | Shuttle Search       |   ⭐   |  ⭐  |
-| 14  |                      |         |      |
+| 14  | Docking Data         |   ⭐   |  ⭐  |
 | 15  |                      |         |      |
 | 16  |                      |         |      |
 | 17  |                      |         |      |
