@@ -17,7 +17,7 @@ C# solutions with tests
 | 12  | Rain Risk            |   ⭐   |  ⭐  |
 | 13  | Shuttle Search       |   ⭐   |  ⭐  |
 | 14  | Docking Data         |   ⭐   |  ⭐  |
-| 15  |                      |         |      |
+| 15  | Rambunctious Recitation |   ⭐   |  ⭐  |
 | 16  |                      |         |      |
 | 17  |                      |         |      |
 | 18  |                      |         |      |
