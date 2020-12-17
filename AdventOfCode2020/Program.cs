@@ -50,6 +50,12 @@ namespace AdventOfCode2020
 
             Helper.PrintChallenge("Day 15");
             Day15.Run();
+
+            Helper.PrintChallenge("Day 16");
+            Day16.Run();
+
+            Helper.PrintChallenge("Day 17");
+            Day17.Run();
         }
     }
 }
