@@ -18,8 +18,8 @@ C# solutions with tests
 | 13  | Shuttle Search       |   ⭐   |  ⭐  |
 | 14  | Docking Data         |   ⭐   |  ⭐  |
 | 15  | Rambunctious Recitation |   ⭐   |  ⭐  |
-| 16  |                      |         |      |
-| 17  |                      |         |      |
+| 16  | Ticket Translation   |   ⭐   |  ⭐  |
+| 17  | Conway Cubes         |   ⭐   |  ⭐  |
 | 18  |                      |         |      |
 | 19  |                      |         |      |
 | 20  |                      |         |      |
